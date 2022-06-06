@@ -3,3 +3,4 @@
 2022:151:05 05:980 ERROR PropertiesssExample 16 errormessage
 2022:151:05 05:981 FATAL PropertiesssExample 17 fatalmessage
 Kindly pull this changes from Telegram to WhatsAPP 
+Added code for adding the documents attachement
