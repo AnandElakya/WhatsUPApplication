@@ -1,0 +1,4 @@
+2022:151:05 05:978 INFO  PropertiesssExample 14 infomessage
+2022:151:05 05:980 WARN  PropertiesssExample 15 warningmessage
+2022:151:05 05:980 ERROR PropertiesssExample 16 errormessage
+2022:151:05 05:981 FATAL PropertiesssExample 17 fatalmessage
